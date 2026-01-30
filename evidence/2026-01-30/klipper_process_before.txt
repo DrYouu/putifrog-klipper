@@ -1,0 +1,4 @@
+** WARNING: connection is not using a post-quantum key exchange algorithm.
+** This session may be vulnerable to "store now, decrypt later" attacks.
+** The server may need to be upgraded. See https://openssh.com/pq.html
+olimex     527  0.1  2.2  35448 11488 ?        Ssl  16:52   0:08 /home/olimex/klippy-env/bin/python /home/olimex/klipper/klippy/klippy.py /home/olimex/printer_data/config/printer.cfg -I /home/olimex/printer_data/comms/klippy.serial -l /home/olimex/printer_data/logs/klippy.log -a /home/olimex/printer_data/comms/klippy.sock

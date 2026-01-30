@@ -1,0 +1,11 @@
+** This session may be vulnerable to "store now, decrypt later" attacks.
+** The server may need to be upgraded. See https://openssh.com/pq.html
+=== I2C Bus 0 ===
+Error: Could not open file `/dev/i2c-0': Permission denied
+Run as root?
+=== I2C Bus 1 ===
+Error: Could not open file `/dev/i2c-1': Permission denied
+Run as root?
+=== I2C Bus 2 ===
+Error: Could not open file `/dev/i2c-2': Permission denied
+Run as root?

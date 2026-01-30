@@ -1,0 +1,33 @@
+** This session may be vulnerable to "store now, decrypt later" attacks.
+** The server may need to be upgraded. See https://openssh.com/pq.html
+=== ESCANEO M115 ===
+Testing /dev/ttyS1 @ 250000 baud... ERR_OPEN
+Testing /dev/ttyS1 @ 115200 baud... ERR_OPEN
+Testing /dev/ttyS1 @ 57600 baud... ERR_OPEN
+Testing /dev/ttyS1 @ 19200 baud... ERR_OPEN
+Testing /dev/ttyS2 @ 250000 baud... ERR_OPEN
+Testing /dev/ttyS2 @ 115200 baud... ERR_OPEN
+Testing /dev/ttyS2 @ 57600 baud... ERR_OPEN
+Testing /dev/ttyS2 @ 19200 baud... ERR_OPEN
+Testing /dev/ttyS3 @ 250000 baud... ERR_OPEN
+Testing /dev/ttyS3 @ 115200 baud... ERR_OPEN
+Testing /dev/ttyS3 @ 57600 baud... ERR_OPEN
+Testing /dev/ttyS3 @ 19200 baud... ERR_OPEN
+Testing /dev/ttyS4 @ 250000 baud... ERR_OPEN
+Testing /dev/ttyS4 @ 115200 baud... ERR_OPEN
+Testing /dev/ttyS4 @ 57600 baud... ERR_OPEN
+Testing /dev/ttyS4 @ 19200 baud... ERR_OPEN
+Testing /dev/ttyS5 @ 250000 baud... ERR_OPEN
+Testing /dev/ttyS5 @ 115200 baud... ERR_OPEN
+Testing /dev/ttyS5 @ 57600 baud... ERR_OPEN
+Testing /dev/ttyS5 @ 19200 baud... ERR_OPEN
+Testing /dev/ttyS6 @ 250000 baud... ERR_OPEN
+Testing /dev/ttyS6 @ 115200 baud... ERR_OPEN
+Testing /dev/ttyS6 @ 57600 baud... ERR_OPEN
+Testing /dev/ttyS6 @ 19200 baud... ERR_OPEN
+Testing /dev/ttyS7 @ 250000 baud... ERR_OPEN
+Testing /dev/ttyS7 @ 115200 baud... ERR_OPEN
+Testing /dev/ttyS7 @ 57600 baud... ERR_OPEN
+Testing /dev/ttyS7 @ 19200 baud... ERR_OPEN
+
+=== RESULTADOS ===

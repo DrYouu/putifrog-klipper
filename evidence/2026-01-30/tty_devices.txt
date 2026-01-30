@@ -1,0 +1,11 @@
+** WARNING: connection is not using a post-quantum key exchange algorithm.
+** This session may be vulnerable to "store now, decrypt later" attacks.
+** The server may need to be upgraded. See https://openssh.com/pq.html
+crw--w---- 1 root tty     4, 64 Jan 27 23:59 /dev/ttyS0
+crw-rw---- 1 root dialout 4, 65 Jan 27 23:58 /dev/ttyS1
+crw-rw---- 1 root dialout 4, 66 Jan 27 23:58 /dev/ttyS2
+crw-rw---- 1 root dialout 4, 67 Jan 27 23:58 /dev/ttyS3
+crw-rw---- 1 root dialout 4, 68 Jan 27 23:58 /dev/ttyS4
+crw-rw---- 1 root dialout 4, 69 Jan 27 23:58 /dev/ttyS5
+crw-rw---- 1 root dialout 4, 70 Jan 27 23:58 /dev/ttyS6
+crw-rw---- 1 root dialout 4, 71 Jan 27 23:58 /dev/ttyS7

@@ -1,0 +1,303 @@
+** WARNING: connection is not using a post-quantum key exchange algorithm.
+** This session may be vulnerable to "store now, decrypt later" attacks.
+** The server may need to be upgraded. See https://openssh.com/pq.html
+[Fri Jan 30 16:52:07 2026] clocksource: timer: mask: 0xffffffff max_cycles: 0xffffffff, max_idle_ns: 79635851949 ns
+[Fri Jan 30 16:52:07 2026] clocksource: timer: mask: 0xffffffff max_cycles: 0xffffffff, max_idle_ns: 6370868154 ns
+[Fri Jan 30 16:52:07 2026] Console: colour dummy device 80x30
+[Fri Jan 30 16:52:07 2026] Calibrating delay loop... 1001.47 BogoMIPS (lpj=2002944)
+[Fri Jan 30 16:52:07 2026] pid_max: default: 32768 minimum: 301
+[Fri Jan 30 16:52:07 2026] LSM: Security Framework initializing
+[Fri Jan 30 16:52:07 2026] AppArmor: AppArmor initialized
+[Fri Jan 30 16:52:07 2026] Mount-cache hash table entries: 1024 (order: 0, 4096 bytes, linear)
+[Fri Jan 30 16:52:07 2026] Mountpoint-cache hash table entries: 1024 (order: 0, 4096 bytes, linear)
+[Fri Jan 30 16:52:07 2026] CPU: Testing write buffer coherency: ok
+[Fri Jan 30 16:52:07 2026] CPU0: Spectre v2: firmware did not set auxiliary control register IBE bit, system vulnerable
+[Fri Jan 30 16:52:07 2026] CPU0: thread -1, cpu 0, socket -1, mpidr 0
+[Fri Jan 30 16:52:07 2026] Setting up static identity map for 0x40100000 - 0x40100060
+[Fri Jan 30 16:52:07 2026] rcu: Hierarchical SRCU implementation.
+[Fri Jan 30 16:52:07 2026] smp: Bringing up secondary CPUs ...
+[Fri Jan 30 16:52:07 2026] smp: Brought up 1 node, 1 CPU
+[Fri Jan 30 16:52:07 2026] SMP: Total of 1 processors activated (1001.47 BogoMIPS).
+[Fri Jan 30 16:52:07 2026] CPU: All CPU(s) started in SVC mode.
+[Fri Jan 30 16:52:07 2026] devtmpfs: initialized
+[Fri Jan 30 16:52:07 2026] VFP support v0.3: implementor 41 architecture 3 part 30 variant c rev 3
+[Fri Jan 30 16:52:07 2026] clocksource: jiffies: mask: 0xffffffff max_cycles: 0xffffffff, max_idle_ns: 7645041785100000 ns
+[Fri Jan 30 16:52:07 2026] futex hash table entries: 256 (order: 2, 16384 bytes, linear)
+[Fri Jan 30 16:52:07 2026] pinctrl core: initialized pinctrl subsystem
+[Fri Jan 30 16:52:07 2026] NET: Registered protocol family 16
+[Fri Jan 30 16:52:07 2026] DMA: preallocated 256 KiB pool for atomic coherent allocations
+[Fri Jan 30 16:52:07 2026] audit: initializing netlink subsys (disabled)
+[Fri Jan 30 16:52:07 2026] thermal_sys: Registered thermal governor 'fair_share'
+[Fri Jan 30 16:52:07 2026] thermal_sys: Registered thermal governor 'bang_bang'
+[Fri Jan 30 16:52:07 2026] thermal_sys: Registered thermal governor 'step_wise'
+[Fri Jan 30 16:52:07 2026] cpuidle: using governor ladder
+[Fri Jan 30 16:52:07 2026] cpuidle: using governor menu
+[Fri Jan 30 16:52:07 2026] hw-breakpoint: debug architecture 0x4 unsupported.
+[Fri Jan 30 16:52:07 2026] audit: type=2000 audit(0.072:1): state=initialized audit_enabled=0 res=1
+[Fri Jan 30 16:52:07 2026] iommu: Default domain type: Translated 
+[Fri Jan 30 16:52:07 2026] SCSI subsystem initialized
+[Fri Jan 30 16:52:07 2026] libata version 3.00 loaded.
+[Fri Jan 30 16:52:07 2026] usbcore: registered new interface driver usbfs
+[Fri Jan 30 16:52:07 2026] usbcore: registered new interface driver hub
+[Fri Jan 30 16:52:07 2026] usbcore: registered new device driver usb
+[Fri Jan 30 16:52:07 2026] pps_core: LinuxPPS API ver. 1 registered
+[Fri Jan 30 16:52:07 2026] pps_core: Software ver. 5.3.6 - Copyright 2005-2007 Rodolfo Giometti <giometti@linux.it>
+[Fri Jan 30 16:52:07 2026] PTP clock support registered
+[Fri Jan 30 16:52:07 2026] Advanced Linux Sound Architecture Driver Initialized.
+[Fri Jan 30 16:52:07 2026] clocksource: Switched to clocksource timer
+[Fri Jan 30 16:52:07 2026] VFS: Disk quotas dquot_6.6.0
+[Fri Jan 30 16:52:07 2026] VFS: Dquot-cache hash table entries: 1024 (order 0, 4096 bytes)
+[Fri Jan 30 16:52:07 2026] AppArmor: AppArmor Filesystem Enabled
+[Fri Jan 30 16:52:07 2026] simple-framebuffer 5fd00000.framebuffer: framebuffer at 0x5fd00000, 0x300000 bytes, mapped to 0x(ptrval)
+[Fri Jan 30 16:52:07 2026] simple-framebuffer 5fd00000.framebuffer: format=x8r8g8b8, mode=1024x768x32, linelength=4096
+[Fri Jan 30 16:52:07 2026] Console: switching to colour frame buffer device 128x48
+[Fri Jan 30 16:52:07 2026] simple-framebuffer 5fd00000.framebuffer: fb0: simplefb registered!
+[Fri Jan 30 16:52:07 2026] NET: Registered protocol family 2
+[Fri Jan 30 16:52:07 2026] IP idents hash table entries: 8192 (order: 4, 65536 bytes, linear)
+[Fri Jan 30 16:52:07 2026] tcp_listen_portaddr_hash hash table entries: 512 (order: 0, 6144 bytes, linear)
+[Fri Jan 30 16:52:07 2026] TCP established hash table entries: 4096 (order: 2, 16384 bytes, linear)
+[Fri Jan 30 16:52:07 2026] TCP bind hash table entries: 4096 (order: 3, 32768 bytes, linear)
+[Fri Jan 30 16:52:07 2026] TCP: Hash tables configured (established 4096 bind 4096)
+[Fri Jan 30 16:52:07 2026] UDP hash table entries: 256 (order: 1, 8192 bytes, linear)
+[Fri Jan 30 16:52:07 2026] UDP-Lite hash table entries: 256 (order: 1, 8192 bytes, linear)
+[Fri Jan 30 16:52:07 2026] NET: Registered protocol family 1
+[Fri Jan 30 16:52:07 2026] Trying to unpack rootfs image as initramfs...
+[Fri Jan 30 16:52:08 2026] Freeing initrd memory: 14648K
+[Fri Jan 30 16:52:08 2026] Initialise system trusted keyrings
+[Fri Jan 30 16:52:08 2026] workingset: timestamp_bits=14 max_order=17 bucket_order=3
+[Fri Jan 30 16:52:08 2026] zbud: loaded
+[Fri Jan 30 16:52:08 2026] Key type asymmetric registered
+[Fri Jan 30 16:52:08 2026] Asymmetric key parser 'x509' registered
+[Fri Jan 30 16:52:08 2026] Block layer SCSI generic (bsg) driver version 0.4 loaded (major 248)
+[Fri Jan 30 16:52:08 2026] io scheduler mq-deadline registered
+[Fri Jan 30 16:52:08 2026] io scheduler kyber registered
+[Fri Jan 30 16:52:08 2026] io scheduler bfq registered
+[Fri Jan 30 16:52:08 2026] sun4i-usb-phy 1c13400.phy: Couldn't request ID GPIO
+[Fri Jan 30 16:52:08 2026] sun5i-pinctrl 1c20800.pinctrl: initialized sunXi PIO driver
+[Fri Jan 30 16:52:08 2026] Serial: 8250/16550 driver, 8 ports, IRQ sharing disabled
+[Fri Jan 30 16:52:08 2026] sun5i-pinctrl 1c20800.pinctrl: supply vcc-pg not found, using dummy regulator
+[Fri Jan 30 16:52:08 2026] printk: console [ttyS0] disabled
+[Fri Jan 30 16:52:08 2026] 1c28400.serial: ttyS0 at MMIO 0x1c28400 (irq = 34, base_baud = 1500000) is a 16550A
+[Fri Jan 30 16:52:08 2026] printk: console [ttyS0] enabled
+[Fri Jan 30 16:52:08 2026] STM32 USART driver initialized
+[Fri Jan 30 16:52:08 2026] sun5i-pinctrl 1c20800.pinctrl: supply vcc-pd not found, using dummy regulator
+[Fri Jan 30 16:52:08 2026] brd: module loaded
+[Fri Jan 30 16:52:08 2026] loop: module loaded
+[Fri Jan 30 16:52:08 2026] ehci_hcd: USB 2.0 'Enhanced' Host Controller (EHCI) Driver
+[Fri Jan 30 16:52:08 2026] ehci-platform: EHCI generic platform driver
+[Fri Jan 30 16:52:08 2026] ohci_hcd: USB 1.1 'Open' Host Controller (OHCI) Driver
+[Fri Jan 30 16:52:08 2026] ohci-platform: OHCI generic platform driver
+[Fri Jan 30 16:52:08 2026] usbcore: registered new interface driver usb-storage
+[Fri Jan 30 16:52:08 2026] i2c /dev entries driver
+[Fri Jan 30 16:52:08 2026] sun5i-pinctrl 1c20800.pinctrl: supply vcc-pb not found, using dummy regulator
+[Fri Jan 30 16:52:08 2026] sunxi-wdt 1c20c90.watchdog: Watchdog enabled (timeout=16 sec, nowayout=0)
+[Fri Jan 30 16:52:08 2026] sdhci: Secure Digital Host Controller Interface driver
+[Fri Jan 30 16:52:08 2026] sdhci: Copyright(c) Pierre Ossman
+[Fri Jan 30 16:52:08 2026] Synopsys Designware Multimedia Card Interface Driver
+[Fri Jan 30 16:52:08 2026] sdhci-pltfm: SDHCI platform and OF driver helper
+[Fri Jan 30 16:52:08 2026] sun5i-pinctrl 1c20800.pinctrl: supply vcc-pf not found, using dummy regulator
+[Fri Jan 30 16:52:08 2026] sunxi-mmc 1c0f000.mmc: Got CD GPIO
+[Fri Jan 30 16:52:08 2026] ledtrig-cpu: registered to indicate activity on CPUs
+[Fri Jan 30 16:52:08 2026] hid: raw HID events driver (C) Jiri Kosina
+[Fri Jan 30 16:52:08 2026] usbcore: registered new interface driver usbhid
+[Fri Jan 30 16:52:08 2026] usbhid: USB HID core driver
+[Fri Jan 30 16:52:08 2026] Initializing XFRM netlink socket
+[Fri Jan 30 16:52:08 2026] NET: Registered protocol family 10
+[Fri Jan 30 16:52:08 2026] sunxi-mmc 1c0f000.mmc: initialized, max. request size: 16384 KB
+[Fri Jan 30 16:52:08 2026] mmc0: host does not support reading read-only switch, assuming write-enable
+[Fri Jan 30 16:52:08 2026] mmc0: new high speed SDHC card at address 1234
+[Fri Jan 30 16:52:08 2026] mmcblk0: mmc0:1234 SA08G 7.21 GiB 
+[Fri Jan 30 16:52:08 2026]  mmcblk0: p1
+[Fri Jan 30 16:52:08 2026] Segment Routing with IPv6
+[Fri Jan 30 16:52:08 2026] NET: Registered protocol family 17
+[Fri Jan 30 16:52:08 2026] NET: Registered protocol family 15
+[Fri Jan 30 16:52:08 2026] 8021q: 802.1Q VLAN Support v1.8
+[Fri Jan 30 16:52:08 2026] Key type dns_resolver registered
+[Fri Jan 30 16:52:08 2026] Registering SWP/SWPB emulation handler
+[Fri Jan 30 16:52:08 2026] registered taskstats version 1
+[Fri Jan 30 16:52:08 2026] Loading compiled-in X.509 certificates
+[Fri Jan 30 16:52:08 2026] zswap: loaded using pool lzo/zbud
+[Fri Jan 30 16:52:08 2026] Key type .fscrypt registered
+[Fri Jan 30 16:52:08 2026] Key type fscrypt-provisioning registered
+[Fri Jan 30 16:52:08 2026] Key type encrypted registered
+[Fri Jan 30 16:52:08 2026] AppArmor: AppArmor sha1 policy hashing enabled
+[Fri Jan 30 16:52:08 2026] sun5i-pinctrl 1c20800.pinctrl: supply vcc-pc not found, using dummy regulator
+[Fri Jan 30 16:52:08 2026] sun5i-pinctrl 1c20800.pinctrl: supply vcc-pd not found, using dummy regulator
+[Fri Jan 30 16:52:08 2026] ehci-platform 1c14000.usb: EHCI Host Controller
+[Fri Jan 30 16:52:08 2026] ehci-platform 1c14000.usb: new USB bus registered, assigned bus number 1
+[Fri Jan 30 16:52:08 2026] ehci-platform 1c14000.usb: irq 23, io mem 0x01c14000
+[Fri Jan 30 16:52:08 2026] ehci-platform 1c14000.usb: USB 2.0 started, EHCI 1.00
+[Fri Jan 30 16:52:08 2026] usb usb1: New USB device found, idVendor=1d6b, idProduct=0002, bcdDevice= 5.10
+[Fri Jan 30 16:52:08 2026] usb usb1: New USB device strings: Mfr=3, Product=2, SerialNumber=1
+[Fri Jan 30 16:52:08 2026] usb usb1: Product: EHCI Host Controller
+[Fri Jan 30 16:52:08 2026] usb usb1: Manufacturer: Linux 5.10.180-olimex ehci_hcd
+[Fri Jan 30 16:52:08 2026] usb usb1: SerialNumber: 1c14000.usb
+[Fri Jan 30 16:52:08 2026] hub 1-0:1.0: USB hub found
+[Fri Jan 30 16:52:08 2026] hub 1-0:1.0: 1 port detected
+[Fri Jan 30 16:52:08 2026] ohci-platform 1c14400.usb: Generic Platform OHCI controller
+[Fri Jan 30 16:52:08 2026] ohci-platform 1c14400.usb: new USB bus registered, assigned bus number 2
+[Fri Jan 30 16:52:08 2026] ohci-platform 1c14400.usb: irq 24, io mem 0x01c14400
+[Fri Jan 30 16:52:08 2026] usb usb2: New USB device found, idVendor=1d6b, idProduct=0001, bcdDevice= 5.10
+[Fri Jan 30 16:52:08 2026] usb usb2: New USB device strings: Mfr=3, Product=2, SerialNumber=1
+[Fri Jan 30 16:52:08 2026] usb usb2: Product: Generic Platform OHCI controller
+[Fri Jan 30 16:52:08 2026] usb usb2: Manufacturer: Linux 5.10.180-olimex ohci_hcd
+[Fri Jan 30 16:52:08 2026] usb usb2: SerialNumber: 1c14400.usb
+[Fri Jan 30 16:52:08 2026] hub 2-0:1.0: USB hub found
+[Fri Jan 30 16:52:08 2026] hub 2-0:1.0: 1 port detected
+[Fri Jan 30 16:52:08 2026] usb_phy_generic usb_phy_generic.0.auto: supply vcc not found, using dummy regulator
+[Fri Jan 30 16:52:08 2026] usb_phy_generic usb_phy_generic.0.auto: dummy supplies not allowed for exclusive requests
+[Fri Jan 30 16:52:08 2026] musb-hdrc musb-hdrc.1.auto: MUSB HDRC host driver
+[Fri Jan 30 16:52:08 2026] musb-hdrc musb-hdrc.1.auto: new USB bus registered, assigned bus number 3
+[Fri Jan 30 16:52:08 2026] usb usb3: New USB device found, idVendor=1d6b, idProduct=0002, bcdDevice= 5.10
+[Fri Jan 30 16:52:08 2026] usb usb3: New USB device strings: Mfr=3, Product=2, SerialNumber=1
+[Fri Jan 30 16:52:08 2026] usb usb3: Product: MUSB HDRC host driver
+[Fri Jan 30 16:52:08 2026] usb usb3: Manufacturer: Linux 5.10.180-olimex musb-hcd
+[Fri Jan 30 16:52:08 2026] usb usb3: SerialNumber: musb-hdrc.1.auto
+[Fri Jan 30 16:52:08 2026] hub 3-0:1.0: USB hub found
+[Fri Jan 30 16:52:08 2026] hub 3-0:1.0: 1 port detected
+[Fri Jan 30 16:52:08 2026] sun5i-pinctrl 1c20800.pinctrl: supply vcc-pd not found, using dummy regulator
+[Fri Jan 30 16:52:08 2026] sun5i-pinctrl 1c20800.pinctrl: supply vcc-pd not found, using dummy regulator
+[Fri Jan 30 16:52:08 2026] ALSA device list:
+[Fri Jan 30 16:52:08 2026]   No soundcards found.
+[Fri Jan 30 16:52:08 2026] Freeing unused kernel memory: 1024K
+[Fri Jan 30 16:52:08 2026] Run /init as init process
+[Fri Jan 30 16:52:08 2026]   with arguments:
+[Fri Jan 30 16:52:08 2026]     /init
+[Fri Jan 30 16:52:08 2026]   with environment:
+[Fri Jan 30 16:52:08 2026]     HOME=/
+[Fri Jan 30 16:52:08 2026]     TERM=linux
+[Fri Jan 30 16:52:08 2026] usb 1-1: new high-speed USB device number 2 using ehci-platform
+[Fri Jan 30 16:52:09 2026] usb 1-1: New USB device found, idVendor=0424, idProduct=2513, bcdDevice= b.b3
+[Fri Jan 30 16:52:09 2026] usb 1-1: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[Fri Jan 30 16:52:09 2026] hub 1-1:1.0: USB hub found
+[Fri Jan 30 16:52:09 2026] hub 1-1:1.0: 3 ports detected
+[Fri Jan 30 16:52:09 2026] sun5i-pinctrl 1c20800.pinctrl: supply vcc-pd not found, using dummy regulator
+[Fri Jan 30 16:52:09 2026] usb 1-1.2: new high-speed USB device number 3 using ehci-platform
+[Fri Jan 30 16:52:09 2026] usb 1-1.2: New USB device found, idVendor=2357, idProduct=0602, bcdDevice=20.00
+[Fri Jan 30 16:52:09 2026] usb 1-1.2: New USB device strings: Mfr=1, Product=2, SerialNumber=3
+[Fri Jan 30 16:52:09 2026] usb 1-1.2: Product: USB 10/100 LAN
+[Fri Jan 30 16:52:09 2026] usb 1-1.2: Manufacturer: TP-LINK
+[Fri Jan 30 16:52:09 2026] usb 1-1.2: SerialNumber: 788CB533A81D
+[Fri Jan 30 16:52:09 2026] sun5i-pinctrl 1c20800.pinctrl: supply vcc-pd not found, using dummy regulator
+[Fri Jan 30 16:52:10 2026] panel-simple panel: supply power not found, using dummy regulator
+[Fri Jan 30 16:52:10 2026] panel-simple panel: Specify missing connector_type
+[Fri Jan 30 16:52:10 2026] pwm-backlight backlight: supply power not found, using dummy regulator
+[Fri Jan 30 16:52:10 2026] sun5i-pinctrl 1c20800.pinctrl: supply vcc-pd not found, using dummy regulator
+[Fri Jan 30 16:52:10 2026] panel-simple panel: supply power not found, using dummy regulator
+[Fri Jan 30 16:52:10 2026] panel-simple panel: Specify missing connector_type
+[Fri Jan 30 16:52:10 2026] pwm-backlight backlight: supply power not found, using dummy regulator
+[Fri Jan 30 16:52:10 2026] sun5i-pinctrl 1c20800.pinctrl: supply vcc-pd not found, using dummy regulator
+[Fri Jan 30 16:52:10 2026] panel-simple panel: supply power not found, using dummy regulator
+[Fri Jan 30 16:52:10 2026] panel-simple panel: Specify missing connector_type
+[Fri Jan 30 16:52:10 2026] sun5i-pinctrl 1c20800.pinctrl: supply vcc-pd not found, using dummy regulator
+[Fri Jan 30 16:52:10 2026] sun4i-backend 1e60000.display-backend: Couldn't find matching frontend, frontend features disabled
+[Fri Jan 30 16:52:10 2026] sun4i-drm display-engine: bound 1e60000.display-backend (ops 0xc0b69c54)
+[Fri Jan 30 16:52:10 2026] sun4i-drm display-engine: bound 1c0c000.lcd-controller (ops 0xc0b685b4)
+[Fri Jan 30 16:52:10 2026] checking generic (5fd00000 300000) vs hw (0 ffffffff)
+[Fri Jan 30 16:52:10 2026] fb0: switching to sun4i-drm-fb from simple
+[Fri Jan 30 16:52:10 2026] Console: switching to colour dummy device 80x30
+[Fri Jan 30 16:52:10 2026] [drm] Initialized sun4i-drm 1.0.0 20150629 for display-engine on minor 0
+[Fri Jan 30 16:52:10 2026] Console: switching to colour frame buffer device 60x34
+[Fri Jan 30 16:52:10 2026] sun4i-drm display-engine: [drm] fb0: sun4i-drmdrmfb frame buffer device
+[Fri Jan 30 16:52:14 2026] EXT4-fs (mmcblk0p1): mounted filesystem with ordered data mode. Opts: (null)
+[Fri Jan 30 16:52:15 2026] systemd[1]: System time before build time, advancing clock.
+[Fri Jan 30 16:52:15 2026] systemd[1]: systemd 247.3-7+deb11u7 running in system mode. (+PAM +AUDIT +SELINUX +IMA +APPARMOR +SMACK +SYSVINIT +UTMP +LIBCRYPTSETUP +GCRYPT +GNUTLS +ACL +XZ +LZ4 +ZSTD +SECCOMP +BLKID +ELFUTILS +KMOD +IDN2 -IDN +PCRE2 default-hierarchy=unified)
+[Fri Jan 30 16:52:15 2026] systemd[1]: Detected architecture arm.
+[Fri Jan 30 16:52:15 2026] systemd[1]: Set hostname to <a13-som>.
+[Fri Jan 30 16:52:17 2026] systemd[1]: /lib/systemd/system/plymouth-start.service:16: Unit configured to use KillMode=none. This is unsafe, as it disables systemd's process lifecycle management for the service. Please update your service to use a safer KillMode=, such as 'mixed' or 'control-group'. Support for KillMode=none is deprecated and will eventually be removed.
+[Fri Jan 30 16:52:17 2026] systemd[1]: Queued start job for default target Multi-User System.
+[Fri Jan 30 16:52:17 2026] random: systemd: uninitialized urandom read (16 bytes read)
+[Fri Jan 30 16:52:17 2026] systemd[1]: Created slice system-getty.slice.
+[Fri Jan 30 16:52:17 2026] random: systemd: uninitialized urandom read (16 bytes read)
+[Fri Jan 30 16:52:17 2026] systemd[1]: Created slice system-modprobe.slice.
+[Fri Jan 30 16:52:17 2026] random: systemd: uninitialized urandom read (16 bytes read)
+[Fri Jan 30 16:52:17 2026] systemd[1]: Created slice system-serial\x2dgetty.slice.
+[Fri Jan 30 16:52:17 2026] systemd[1]: Created slice User and Session Slice.
+[Fri Jan 30 16:52:17 2026] systemd[1]: Started Forward Password Requests to Wall Directory Watch.
+[Fri Jan 30 16:52:17 2026] systemd[1]: Set up automount Arbitrary Executable File Formats File System Automount Point.
+[Fri Jan 30 16:52:17 2026] systemd[1]: Reached target Remote File Systems.
+[Fri Jan 30 16:52:17 2026] systemd[1]: Reached target Slices.
+[Fri Jan 30 16:52:17 2026] systemd[1]: Reached target Swap.
+[Fri Jan 30 16:52:17 2026] systemd[1]: Listening on Syslog Socket.
+[Fri Jan 30 16:52:17 2026] systemd[1]: Listening on fsck to fsckd communication Socket.
+[Fri Jan 30 16:52:17 2026] systemd[1]: Listening on initctl Compatibility Named Pipe.
+[Fri Jan 30 16:52:17 2026] systemd[1]: Listening on Journal Audit Socket.
+[Fri Jan 30 16:52:17 2026] systemd[1]: Listening on Journal Socket (/dev/log).
+[Fri Jan 30 16:52:17 2026] systemd[1]: Listening on Journal Socket.
+[Fri Jan 30 16:52:17 2026] systemd[1]: Listening on udev Control Socket.
+[Fri Jan 30 16:52:17 2026] systemd[1]: Listening on udev Kernel Socket.
+[Fri Jan 30 16:52:17 2026] systemd[1]: Condition check resulted in Huge Pages File System being skipped.
+[Fri Jan 30 16:52:17 2026] systemd[1]: Mounting POSIX Message Queue File System...
+[Fri Jan 30 16:52:17 2026] systemd[1]: Mounting Kernel Debug File System...
+[Fri Jan 30 16:52:17 2026] systemd[1]: Mounting Kernel Trace File System...
+[Fri Jan 30 16:52:17 2026] systemd[1]: Starting Restore / save the current clock...
+[Fri Jan 30 16:52:17 2026] systemd[1]: Starting Set the console keyboard layout...
+[Fri Jan 30 16:52:17 2026] systemd[1]: Starting Create list of static device nodes for the current kernel...
+[Fri Jan 30 16:52:17 2026] random: crng init done
+[Fri Jan 30 16:52:17 2026] random: 20 urandom warning(s) missed due to ratelimiting
+[Fri Jan 30 16:52:17 2026] systemd[1]: Starting Load Kernel Module configfs...
+[Fri Jan 30 16:52:17 2026] systemd[1]: Starting Load Kernel Module drm...
+[Fri Jan 30 16:52:17 2026] systemd[1]: Starting Load Kernel Module fuse...
+[Fri Jan 30 16:52:17 2026] systemd[1]: Started Nameserver information manager.
+[Fri Jan 30 16:52:17 2026] systemd[1]: Reached target Network (Pre).
+[Fri Jan 30 16:52:17 2026] systemd[1]: Condition check resulted in Set Up Additional Binary Formats being skipped.
+[Fri Jan 30 16:52:17 2026] systemd[1]: Condition check resulted in File System Check on Root Device being skipped.
+[Fri Jan 30 16:52:18 2026] systemd[1]: Starting Journal Service...
+[Fri Jan 30 16:52:18 2026] fuse: init (API version 7.32)
+[Fri Jan 30 16:52:18 2026] systemd[1]: Starting Load Kernel Modules...
+[Fri Jan 30 16:52:18 2026] systemd[1]: Starting Remount Root and Kernel File Systems...
+[Fri Jan 30 16:52:18 2026] systemd[1]: Starting Coldplug All udev Devices...
+[Fri Jan 30 16:52:18 2026] systemd[1]: Mounted POSIX Message Queue File System.
+[Fri Jan 30 16:52:18 2026] systemd[1]: Mounted Kernel Debug File System.
+[Fri Jan 30 16:52:18 2026] systemd[1]: Mounted Kernel Trace File System.
+[Fri Jan 30 16:52:18 2026] systemd[1]: Finished Restore / save the current clock.
+[Fri Jan 30 16:52:18 2026] systemd[1]: Finished Create list of static device nodes for the current kernel.
+[Fri Jan 30 16:52:18 2026] systemd[1]: modprobe@configfs.service: Succeeded.
+[Fri Jan 30 16:52:18 2026] systemd[1]: Finished Load Kernel Module configfs.
+[Fri Jan 30 16:52:18 2026] systemd[1]: modprobe@drm.service: Succeeded.
+[Fri Jan 30 16:52:18 2026] systemd[1]: Finished Load Kernel Module drm.
+[Fri Jan 30 16:52:18 2026] systemd[1]: modprobe@fuse.service: Succeeded.
+[Fri Jan 30 16:52:18 2026] systemd[1]: Finished Load Kernel Module fuse.
+[Fri Jan 30 16:52:18 2026] systemd[1]: Mounting FUSE Control File System...
+[Fri Jan 30 16:52:18 2026] EXT4-fs (mmcblk0p1): re-mounted. Opts: commit=600,errors=remount-ro
+[Fri Jan 30 16:52:18 2026] g_serial gadget: Gadget Serial v2.4
+[Fri Jan 30 16:52:18 2026] g_serial gadget: g_serial ready
+[Fri Jan 30 16:52:18 2026] systemd[1]: Mounting Kernel Configuration File System...
+[Fri Jan 30 16:52:18 2026] sun4i-ts 1c25000.rtp: Invalid configuration, using defaults
+[Fri Jan 30 16:52:18 2026] input: 1c25000.rtp as /devices/platform/soc/1c25000.rtp/input/input0
+[Fri Jan 30 16:52:18 2026] systemd[1]: Finished Load Kernel Modules.
+[Fri Jan 30 16:52:18 2026] systemd[1]: Finished Remount Root and Kernel File Systems.
+[Fri Jan 30 16:52:18 2026] systemd[1]: Mounted FUSE Control File System.
+[Fri Jan 30 16:52:18 2026] systemd[1]: Mounted Kernel Configuration File System.
+[Fri Jan 30 16:52:18 2026] systemd[1]: Condition check resulted in Rebuild Hardware Database being skipped.
+[Fri Jan 30 16:52:18 2026] systemd[1]: Condition check resulted in Platform Persistent Storage Archival being skipped.
+[Fri Jan 30 16:52:18 2026] systemd[1]: Starting Load/Save Random Seed...
+[Fri Jan 30 16:52:18 2026] systemd[1]: Starting Apply Kernel Variables...
+[Fri Jan 30 16:52:19 2026] systemd[1]: Starting Create System Users...
+[Fri Jan 30 16:52:19 2026] systemd[1]: Finished Load/Save Random Seed.
+[Fri Jan 30 16:52:19 2026] systemd[1]: Condition check resulted in First Boot Complete being skipped.
+[Fri Jan 30 16:52:19 2026] systemd[1]: Finished Apply Kernel Variables.
+[Fri Jan 30 16:52:19 2026] systemd[1]: Finished Create System Users.
+[Fri Jan 30 16:52:19 2026] systemd[1]: Starting Create Static Device Nodes in /dev...
+[Fri Jan 30 16:52:19 2026] systemd[1]: Finished Create Static Device Nodes in /dev.
+[Fri Jan 30 16:52:19 2026] systemd[1]: Starting Rule-based Manager for Device Events and Files...
+[Fri Jan 30 16:52:20 2026] systemd[1]: Finished Set the console keyboard layout.
+[Fri Jan 30 16:52:20 2026] systemd[1]: Reached target Local File Systems (Pre).
+[Fri Jan 30 16:52:20 2026] systemd[1]: Reached target Local File Systems.
+[Fri Jan 30 16:52:20 2026] systemd[1]: Starting Set console font and keymap...
+[Fri Jan 30 16:52:20 2026] systemd[1]: Starting Tell Plymouth To Write Out Runtime Data...
+[Fri Jan 30 16:52:20 2026] systemd[1]: Condition check resulted in Store a System Token in an EFI Variable being skipped.
+[Fri Jan 30 16:52:20 2026] systemd[1]: Condition check resulted in Commit a transient machine-id on disk being skipped.
+[Fri Jan 30 16:52:20 2026] systemd[1]: Started Journal Service.
+[Fri Jan 30 16:52:20 2026] systemd-journald[218]: Received client request to flush runtime journal.
+[Fri Jan 30 16:52:24 2026] mc: Linux media interface: v0.10
+[Fri Jan 30 16:52:24 2026] videodev: Linux video capture interface: v2.00
+[Fri Jan 30 16:52:24 2026] sunxi_cedrus: module is from the staging directory, the quality is unknown, you have been warned.
+[Fri Jan 30 16:52:24 2026] cedrus 1c0e000.video-codec: Device registered as /dev/video0
+[Fri Jan 30 16:52:25 2026] sun4i-ss 1c15000.crypto-engine: Die ID 1
+[Fri Jan 30 16:52:25 2026] debugfs: Directory '1c22c00.codec' with parent 'sun4i-codec' already present!
+[Fri Jan 30 16:52:26 2026] cdc_ether 1-1.2:2.0 eth0: register 'cdc_ether' at usb-1c14000.usb-1.2, CDC Ethernet Device, 78:8c:b5:33:a8:1d
+[Fri Jan 30 16:52:26 2026] usbcore: registered new interface driver cdc_ether
+[Fri Jan 30 16:52:34 2026] cdc_ether 1-1.2:2.0 enx788cb533a81d: renamed from eth0
+[Fri Jan 30 16:52:40 2026] vcc3v0: disabling
+[Fri Jan 30 16:52:40 2026] vcc5v0: disabling

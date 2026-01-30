@@ -1,0 +1,11 @@
+** WARNING: connection is not using a post-quantum key exchange algorithm.
+** This session may be vulnerable to "store now, decrypt later" attacks.
+** The server may need to be upgraded. See https://openssh.com/pq.html
+2026-01-30T18:17:51+00:00
+Linux a13-som 5.10.180-olimex #145321 SMP Thu Jan 22 14:55:18 UTC 2026 armv7l GNU/Linux
+PRETTY_NAME="Debian GNU/Linux 11 (bullseye)"
+NAME="Debian GNU/Linux"
+VERSION_ID="11"
+VERSION="11 (bullseye)"
+VERSION_CODENAME=bullseye
+root=PARTUUID=023aa8cd-01 rootwait console=ttyS0,115200 panic=10 loglevel=4 
