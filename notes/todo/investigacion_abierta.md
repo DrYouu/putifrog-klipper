@@ -171,8 +171,25 @@ ssh -o BatchMode=yes -o ConnectTimeout=5 "olimex@192.168.0.13" 'cat /etc/systemd
 
 ---
 
+## DESCUBRIMIENTO CRÍTICO - 2026-01-30 (ACTUALIZACIÓN)
+
+**Identificado**: MCU Marlin en socket interno, NO USB externo
+
+**Placa de Motores**: ATmega1280/2560 (Marlin 2.5, Leapfrog Creatr HS)
+**Comunicación Esperada**: UART serie @ 250000 baud (probablemente /dev/ttyS1, S2 o S3)
+
+**Acción Inmediata**: Cambiar printer.cfg:
+```
+[mcu]
+serial: /dev/ttyS1      # ← Probar /dev/ttyS1, S2, S3, S4
+baud: 250000
+restart_method: arduino
+```
+
+Ver: `evidence/2026-01-30/marlin_communication_analysis.md` para análisis completo
+
 ## Estado de Cierre
 
 Fecha: 2026-01-30
 Iniciador de investigación: Hardware-Evidence Baseline
-Siguiente sesión: Pendiente (se requiere ejecución de comandos P0)
+Siguiente acción: Cambiar puerto serie en Klipper y probar
