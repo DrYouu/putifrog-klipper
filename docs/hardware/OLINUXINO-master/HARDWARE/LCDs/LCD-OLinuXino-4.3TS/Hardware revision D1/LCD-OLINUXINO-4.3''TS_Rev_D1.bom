@@ -1,0 +1,40 @@
+Partlist exported from Z:/svn-ubuntu/LCD-OLINUXINO-4.3TS/Hardware/trunk/BRD/LCD-OLINUXINO-4.3''TS_Rev_D1.sch at 27.07.2021 13:17:21 
+
+Part               Value                         Device                           Package                                      Description                                                                     
+5.0V/3.3V          5.0V:Close/3.3V:Open          SJ2W5                            SJ_2_SMALL_23_TIED                           SMD solder JUMPER                                                               
+5V_JACK/5V_LCD_CON 5V_JACK:Open/5V_LCD_CON:Close SJ2W3                            SJ_2_SMALL                                   SMD solder JUMPER                                                               
+C1                 22uF/6.3V                     C-EUC0603_DWS                    C0603_DWS                                    CAPACITOR, European symbol                                                      
+C2                 100n                          C-EUC0603_DWS                    C0603_DWS                                    CAPACITOR, European symbol                                                      
+C3                 22uF/6.3V                     C-EUC0603_DWS                    C0603_DWS                                    CAPACITOR, European symbol                                                      
+C4                 22uF/6.3V                     C-EUC0603_DWS                    C0603_DWS                                    CAPACITOR, European symbol                                                      
+C5                 100uF/35V/6.3x11              CPOL-EUH1M                       CP6.3X11-H-M                                 POLARIZED CAPACITOR, European symbol                                            
+C6                 470pF                         C-EUC0603_DWS                    C0603_DWS                                    CAPACITOR, European symbol                                                      
+CTRL/EN            CTRL:Close/EN:Open            SJ2W5                            SJ_2_SMALL_23_TIED                           SMD solder JUMPER                                                               
+D1                 BAT54C                        DIODE_AC-CA_                     SOT23C                                       DUAL DIODE                                                                      
+D2                 1N5819S(SS14)                 SCHOTKKY7.62SS2                  MLL-41                                                                                                                       
+FET1               IRLML6402                     P-MOS+DIODIRLML6402              SOT23                                                                                                                        
+FET2               IRLML6402                     P-MOS+DIODIRLML6402              SOT23                                                                                                                        
+L1                 220uH/YS75                    L-USL7078                        L7078                                        INDUCTOR, American symbol                                                       
+LCD                BT043DC+(FPV-WZA21-40-LF)     GFT043A13-LCD4.3"                FPV-WZA21-40-LF                              Construction: 4.3 inches a-Si color TFT-LCD, White LED / CCFL Backlight and PCB.
+LCD_CON            P-B-V-40-LF                   ML40-GBH-254-SMT-40              ML40-MALE(GBH-254-SMT-40)                    HARTING                                                                         
+LCD_LIME           MALE-PAV16X-2x20 (0.8 bud)    ML40YA-V36P-2X20-LF              YA-V36P-2X20-LF                              HARTING                                                                         
+LCD_LIME2          MALE-PAV16X-2x20 (0.8 bud)    ML40PA-V16X-2X20-LF_0.90_DRILL   GPH127SMT-02X20(PA-V16X-2X20-LF)_DRILL_0.9MM HARTING                                                                         
+PWR_JACK           DCJ-W54R-20-LF                PWR-JAKDCJ-W                     PWR-JACK-SMD                                                                                                                 
+R1                 NA                            R-EU_R0603_5MIL_DWS              R0603_5MIL_DWS                               RESISTOR, European symbol                                                       
+R2                 NA                            R-EU_R0603_5MIL_DWS              R0603_5MIL_DWS                               RESISTOR, European symbol                                                       
+R3                 27k/1%                        R-EU_R0603_5MIL_DWS              R0603_5MIL_DWS                               RESISTOR, European symbol                                                       
+R4                 27k/1%                        R-EU_R0603_5MIL_DWS              R0603_5MIL_DWS                               RESISTOR, European symbol                                                       
+R5                 10k                           R-EU_R0603_5MIL_DWS              R0603_5MIL_DWS                               RESISTOR, European symbol                                                       
+R6                 1k                            R-EU_R0603_5MIL_DWS              R0603_5MIL_DWS                               RESISTOR, European symbol                                                       
+R7                 1.2k/1%                       R-EU_R0603_5MIL_DWS              R0603_5MIL_DWS                               RESISTOR, European symbol                                                       
+R8                 1R                            R-EU_R0805_5MIL_DWS              R0805_5MIL_DWS                               RESISTOR, European symbol                                                       
+R9                 150R                          R-EU_R0603_5MIL_DWS              R0603_5MIL_DWS                               RESISTOR, European symbol                                                       
+R10                27k/1%                        R-EU_R0603_5MIL_DWS              R0603_5MIL_DWS                               RESISTOR, European symbol                                                       
+R11                1.2k/1%                       R-EU_R0603_5MIL_DWS              R0603_5MIL_DWS                               RESISTOR, European symbol                                                       
+T1                 DTA114YKA                     DIGITAL_TRANSISTORS-PNPDTA114YKA SOT-23                                       DTA114YKA                                                                       
+T2                 LMUN2235LT1G                  DIGITAL_TRANSISTORS-NPNDTC114YKA SOT-23                                       DTC114YKA                                                                       
+T3                 DTC114YKA                     DIGITAL_TRANSISTORS-NPNDTC114YKA SOT-23                                       DTC114YKA                                                                       
+U$1                FIDUCIAL                      FIDUCIAL                         FIDUCIAL-1X3                                 Fiducial Alignment Points                                                       
+U$2                FIDUCIAL                      FIDUCIAL                         FIDUCIAL-1X3                                 Fiducial Alignment Points                                                       
+U$3                FIDUCIAL                      FIDUCIAL                         FIDUCIAL-1X3                                 Fiducial Alignment Points                                                       
+U1                 MC34063AD(R2)G,(SO8)          MC34063A2                        SO-8                                                                                                                         

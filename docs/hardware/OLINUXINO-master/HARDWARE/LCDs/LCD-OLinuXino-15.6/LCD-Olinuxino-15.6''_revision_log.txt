@@ -1,0 +1,25 @@
+Hardware design changelog of LCD-OLINUXINO-15.6 
+
+Consider that LCD-OLINUXINO-15.6 and LCD-OLINUXINO-15.6FHD are completly different designs.
+
+Hardware revision D
+========
+Initial release
+
+Hardware revision D1 
+==========
+1. Changed R12 from 1.1k/1% to 240R
+2. Changed C3 from 10uF/16V/0805 to 22uF/6.3V/0805
+
+After revision D1 both LCD-OLinuXino-15.6 and LCD-OLinuXino-15.6FHD use the PCB and design files of LCD-OLinuXino-15.6FHD (first common revision is hardware revision E of the LCD-OLinuXino-15.6FHD board). Refer to the design files for LCD-OLinuXino-15.6FHD if your display has white print of LCD-OLinuXino-15.6FHD.
+
+Hardware revision D1 
+==========
+
+1. Changed R12 from 1.1k/1% to 240R, to improve the front on the PWM-a at FET3 gate;
+2. C3 changed from 10uF/16V/0805 to 22uF/6.3V/0805 for slower start.
+
+LCD-OLinuXino-15.6FHD_rev_E
+======================
+1. Rename Rev_D to LCD-OLinuXino-15.6FHD_Rev_E, the PCB is used for LCD-OLinuXino-15.6 display despite the label;
+2. Change PWM schematic from 1 FET to ground to 2 FET from 10V 
